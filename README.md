@@ -1,5 +1,5 @@
 # GENERAL INFO
-The Game of Life application with graphics interface
+The Game of Life application with graphical user interface
 
 # Features
 * create your own pattern
